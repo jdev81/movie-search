@@ -1,8 +1,8 @@
-# 🎬 Movie Search React App
+#  Movie Search React App
 
 A modern, responsive React application for searching movies using the OMDB API. Built with React, Vite, and Tailwind CSS.
 
-## ✨ Features
+##  Features
 
 - **Movie Search**: Search for movies by title using the OMDB API
 - **Responsive Design**: Mobile-first design that works on all devices
@@ -12,7 +12,7 @@ A modern, responsive React application for searching movies using the OMDB API. 
 - **Error Handling**: User-friendly error messages for failed requests
 - **Modern UI**: Clean, modern interface with smooth animations
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - **React 18** - Modern React with functional components and hooks
 - **Vite** - Fast build tool and development server
@@ -20,7 +20,7 @@ A modern, responsive React application for searching movies using the OMDB API. 
 - **OMDB API** - Movie database API
 - **LocalStorage** - For persisting favorites and dark mode preference
 
-## 📦 Installation
+##  Installation
 
 1. **Clone or download the project**
    ```bash
@@ -53,7 +53,7 @@ A modern, responsive React application for searching movies using the OMDB API. 
    - Navigate to `http://localhost:5173`
    - Start searching for movies!
 
-## 🎯 Usage
+##  Usage
 
 ### Searching for Movies
 1. Enter a movie title in the search bar
@@ -84,7 +84,7 @@ src/
 └── main.jsx                  # React app entry point
 ```
 
-## 🎨 Styling
+##  Styling
 
 The app uses Tailwind CSS with custom component classes defined in `src/index.css`:
 
@@ -100,7 +100,7 @@ The app uses Tailwind CSS with custom component classes defined in `src/index.cs
 - `npm run preview` - Preview production build
 - `npm run lint` - Run ESLint
 
-## 🌟 Features in Detail
+##  Features in Detail
 
 ### Responsive Grid Layout
 - 1 column on mobile
@@ -125,7 +125,7 @@ The app uses Tailwind CSS with custom component classes defined in `src/index.cs
 - High contrast colors
 - Screen reader friendly
 
-## 🔑 API Key Setup
+##  API Key Setup
 
 **Important**: You need a valid OMDB API key for the app to work. The free tier includes:
 - 1,000 daily requests
@@ -134,7 +134,7 @@ The app uses Tailwind CSS with custom component classes defined in `src/index.cs
 
 For higher limits, consider upgrading to a paid plan.
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Common Issues
 
@@ -151,7 +151,7 @@ For higher limits, consider upgrading to a paid plan.
    - Check if localStorage is enabled in your browser
    - Clear browser cache and try again
 
-## 🚀 Deployment
+## Deployment
 
 To deploy the app:
 
@@ -166,11 +166,11 @@ To deploy the app:
    - GitHub Pages
    - Any static hosting service
 
-## 📝 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Feel free to:
 - Report bugs
@@ -179,4 +179,4 @@ Contributions are welcome! Feel free to:
 
 ---
 
-**Happy movie searching! 🍿**
+**Happy movie searching! **
